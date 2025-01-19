@@ -4,6 +4,8 @@ module.exports = {
       'res.cloudinary.com',
       'avatars.githubusercontent.com',
       'imgur.com',
+      'i.imgur.com',
+      'i.ibb.co'
     ],
   },
 };

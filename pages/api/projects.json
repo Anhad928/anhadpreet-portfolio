@@ -1,0 +1,36 @@
+[
+    {
+      "id": 1,
+      "name": "Workflow Scrape",
+      "image": "https://i.imgur.com/UsRrkjV.png",
+      "description": "A platform to automate workflows of scraping data with AI",
+      "tags": ["next", "node", "prisma", "tailwind", "react-query"],
+      "source_code": "https://github.com/Anhad928/WorkflowScrape"
+    },
+    {
+      "id": 2,
+      "name": "Ai-Resume Builder",
+      "image": "https://i.imgur.com/18siGnD.png",
+      "description": "A platform to tailor resume according to job title with AI",
+      "tags": ["react", "node", "postgresSQL", "material-ui"],
+      "source_code": "https://github.com/Anhad928/ai-resume-builder-main"
+    },
+    {
+      "id": 3,
+      "name": "Bleeding Hearts Art Space",
+      "image": "https://i.imgur.com/rdRMPTO.png",
+      "description": "A volunteer management platform for an art space",
+      "tags": ["react", "typescript", "postgresSQL", "material-ui", "Docker"],
+      "source_code": "https://github.com/UAlberta-CMPUT401/f24project-Bleeding-Heart-Art-Space",
+      "demo": "https://healthyways.herokuapp.com/"
+    },
+    {
+      "id": 4,
+      "name": "VSCode Portfolio",
+      "image": "https://imgur.com/mKkz0iz.png",
+      "description": "A themeable and developer-centric portfolio based on the VSCode",
+      "tags": ["next", "css-modules"],
+      "source_code": "https://github.com/Anhad928/anhadpreet-portfolio"
+    }
+  ]
+  

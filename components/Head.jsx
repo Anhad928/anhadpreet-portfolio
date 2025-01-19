@@ -12,7 +12,7 @@ const CustomHead = ({ title }) => {
         name="keywords"
         content="Anhadpreet, Anhadpreet, Singh, web developer portfolio, Anhadpreet web developer, Anhadpreet developer, mern stack, Anhadpreet portfolio, AI/ML enthusiast, Saas"
       />
-      <meta property="og:title" content="Nitin Ranganath's Portfolio" />
+      <meta property="og:title" content="Anhadpreet's Portfolio" />
       <meta
         property="og:description"
         content="A full-stack developer building websites that you'd like to use."
@@ -27,5 +27,5 @@ const CustomHead = ({ title }) => {
 export default CustomHead;
 
 CustomHead.defaultProps = {
-  title: 'Nitin Ranganath',
+  title: 'Anhadpreet Singh',
 };

@@ -18,7 +18,7 @@ const contactItems = [
   },
   {
     social: 'instagram',
-    link: 'iamnitinr',
+    link: 'anhadpreet996',
     href: 'https://www.instagram.com/anhadpreet996',
   },
 ];
