@@ -2,7 +2,7 @@ import styles from '../styles/ResumePage.module.css';
 
 // Change the path as needed. If Resume.pdf is in the same folder as this file,
 // you might use './Resume.pdf' or '../Resume.pdf'. If it's in the /public folder, use '/Resume.pdf'.
-const myResume = './Resume.pdf';
+const myResume = './Resume-updated (1).pdf';
 
 export default function ResumePage() {
   return (
